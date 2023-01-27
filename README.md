@@ -4,11 +4,8 @@
 
 https://docs.google.com/spreadsheets/d/1i3oC_6OoBdBtlFAcroDyKDxAt3ZOyj3i2vh9mztBpg4/edit?usp=sharing
 
-
-
-
-
-
+<br>
+<br>
 
 #### ✏ FILE & COMMIT MESSAGE CONVENTION
 
